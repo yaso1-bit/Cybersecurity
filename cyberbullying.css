@@ -1,0 +1,40 @@
+h1 {
+    color: rgb(9, 52, 194);
+    position: absolute;
+    left:35%;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKXismaqp9UiqswNHkQxnzkwOPXYYSGZ4GGqRj8R-IdWso2WsNb7pWn4ItGfblF2R-ug&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul {
+    font-size: 24px;
+    color:rgb(149, 4, 179);
+    font-weight: bold;
+    position: absolute;
+    top:14%;
+}
+
+body img {
+    height:42%;
+    width:24%;
+    position: absolute;
+    top:56%;
+    left:23%;
+}
+
+.button {
+    position: absolute;
+    top: 74%;
+    padding: 21px 50px;
+    text-align: center;
+    text-decoration: none;
+    left: 30%;
+    color: darkblue;
+    font-size: 25px;
+    background-color: orange;
+    font-weight: bold;
+  }

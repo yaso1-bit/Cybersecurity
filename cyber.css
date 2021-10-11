@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(9, 52, 194);
+    position: absolute;
+    left:35%;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKXismaqp9UiqswNHkQxnzkwOPXYYSGZ4GGqRj8R-IdWso2WsNb7pWn4ItGfblF2R-ug&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul {
+    font-size: 24px;
+    color:rgb(245, 100, 47);
+    font-weight: bold;
+    position: absolute;
+    top:14%;
+}
+
+body img {
+    height:40%;
+    width:22%;
+    position: absolute;
+    top:58%;
+    left:23%;
+}
